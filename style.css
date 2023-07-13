@@ -1,0 +1,144 @@
+:root {
+  --gray-01: #f8fafc;
+  --gray-02: #e2e8f0;
+  --gray-03: #94a3b8;
+  --gray-04: #334155;
+  --gray-05: #1e293b;
+  --gray-06: #0f172a;
+  --gray-07: #020617;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("./img/IMG-BG.png"), lightgray 50%;
+  background-size: cover;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chat-background {
+  display: flex;
+  padding: 60px;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  border-radius: 32px;
+  border: 1px solid var(--gray-04, #334155);
+  background: rgba(2, 6, 23, 0.8);
+}
+
+.magic-wand {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: auto auto 24px auto;
+}
+
+.heading-chat {
+  align-self: stretch;
+  color: var(--gray-01);
+  text-align: center;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.content-chat {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.button-option-chat {
+  display: flex;
+  padding: 16px;
+  justify-content: space-between;
+  border-radius: 16px;
+  border: 1px solid var(--gray-04);
+  background: var(--gray-06);
+  width: 576px;
+
+  cursor: pointer;
+}
+
+.arrow-right {
+  display: flex;
+  padding: 16px;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.text-chat {
+  color: var(--gray-02);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.left-side-chat-button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 24px;
+}
+
+.write-message {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+
+  width: 100%;
+}
+
+.write-message-chat {
+  display: flex;
+  padding: 16px;
+  gap: 16px;
+  flex: 1 0 0;
+  border-radius: 16px;
+  border: 1px solid var(--gray-04);
+  background: var(--gray-06);
+}
+
+#message {
+  color: var(--gray-02);
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  border: none;
+  background: var(--gray-06);
+
+  width: 100%;
+}
+
+#message:focus,
+#message:hover {
+  outline: none;
+}
+
+.send-button {
+  display: flex;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid var(--gray-04);
+  background: var(--gray-06);
+  cursor: pointer;
+}
+
+.line-chat {
+  width: 1096px;
+  height: 1px;
+
+  background: #334155;
+}
