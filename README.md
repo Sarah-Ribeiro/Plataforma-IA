@@ -10,9 +10,9 @@ Esse desafio foi criado para o #boracodar, um projeto da Rocketseat com desafios
 
 ## Tabela de Conteúdos
 
-- [Tecnologias](#tecnologias)
-- [Projeto](#projeto)
-- [Layout](#layout)
+- [Tecnologias](#Tecnologias)
+- [Projeto](#Projeto)
+- [Layout](#Layout)
 
 ## 🚀 Tecnologias
 
