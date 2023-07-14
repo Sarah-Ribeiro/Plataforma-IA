@@ -11,6 +11,8 @@ Esse desafio foi criado para o #boracodar, um projeto da Rocketseat com desafios
 ## Tabela de Conteúdos
 
 - [Tecnologias](#tecnologias)
+- [Projeto](#projeto)
+- [Layout](#layout)
 
 ## 🚀 Tecnologias
 
@@ -21,6 +23,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 - GitHub
 - Figma
+
+## 💻 Projeto
+
+O projeto é uma plataforma de IA.
+
+- [Visite o projeto online](https://sarah-ribeiro.github.io/Plataforma-IA/)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://www.figma.com/file/eH6D5IhEHTz6zSnkVVU6ib/Plataforma-de-IA---Desafio-28-(Community)?type=design&mode=design&t=GZEOZEQWfbA1I8gd-1)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
 
 ---
 
