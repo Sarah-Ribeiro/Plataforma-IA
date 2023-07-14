@@ -1,16 +1,16 @@
-# Rocket Blog
+# Plataforma de IA - Desafio 28
 
 <img src="./img/Cover.jpg" />
 
 ## Descrição
 
-O Rocket Blog é um projeto de homepage para um blog
+O desafio é criar a tela de inicio de uma plataforma de inteligência artificial. No desenvolvimento você pode ir além do proposto, por exemplo, adicionando os efeitos hover nos elementos e criando a versão resposiva do projeto :)
+<br><br>
+Esse desafio foi criado para o #boracodar, um projeto da Rocketseat com desafios semanais para você praticar desenvolvendo como achar melhor e evoluir seu código para o próximo nível.
 
 ## Tabela de Conteúdos
 
 - [Tecnologias](#tecnologias)
-- [Projeto](#projeto)
-- [Rodar Código](#como-rodar-o-código-na-sua-máquina)
 
 ## 🚀 Tecnologias
 
@@ -20,22 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - Git
 - GitHub
-
-## 💻 Projeto
-
-Um projeto de homepage para um blog
-
-## Como rodar o código na sua máquina
-
-To run this code in your machines follow the steps below:
-
-- run in your terminal: git clone https://github.com/Sarah-Ribeiro/meu-portfolio
-
-- Then go to the folder: cd meu-portfolio
-
-- Run the live server in the about.html
-
-- HAVE FUN!
+- Figma
 
 ---
 
